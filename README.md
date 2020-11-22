@@ -1,4 +1,4 @@
-# SudokoSolver-in-Python
+# SudokuSolver-in-Python
 
 A pyton program to solve a Sudoku.
 
