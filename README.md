@@ -25,7 +25,7 @@ The internal call of the problem above looks as follows:
 
 The search string is written all 9 lines of the problem in one row without any spaces or delimiters.
 
-Currently you can only change the search string in the program itself to solve another sudoku problem.
+Currently you can only change the search string in the code itself to solve another sudoku problem.
 
 ## Planning:
 A GUI to make this program more user-friendly.
